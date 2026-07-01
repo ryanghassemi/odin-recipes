@@ -1,1 +1,2 @@
 # odin-recipes
+what a fun first project! really enjoyed coming up with these recipes and laying them out with different types of headers, paragraphs, lists and links. It really feels like I have a strong basis to build off of for HTML:D
